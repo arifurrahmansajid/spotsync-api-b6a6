@@ -1,0 +1,17 @@
+# Binaries
+spotsync
+*.exe
+*.out
+
+# Environment files (never commit these!)
+.env
+
+# Go workspace
+go.work
+
+# IDE
+.idea/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
