@@ -4,14 +4,15 @@ spotsync
 *.out
 
 # Environment files (never commit these!)
-.env
 
 # Go workspace
 go.work
 
 # IDE
 .idea/
+.gitignore
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-.gitignore
+config.bat
+node_modules
